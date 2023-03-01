@@ -8,7 +8,7 @@ const InitModal: React.FC<Props> = ({ handleStart }) => {
             <div className='modal'>
                 <div className='modal-content'>
                     <h1>Bienvenido a Memo Got Test</h1>
-                    <p>Encuentra los persojanes iguales detras de las cartas para ganar. Tienes 30 seg.</p>
+                    <p>Encuentra los personajes iguales detrás de las cartas para ganar. Tienes 30 seg.</p>
                     <button onClick={handleStart}>Empezar</button>
                 </div>
             </div>
